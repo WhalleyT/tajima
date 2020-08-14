@@ -13,9 +13,12 @@ The equation is as follows:
  where 0t is the number of pairwise differences and 0w is the number of segregating sites.
  
 ## installation
+To install locally:
+
 ```python setup.py install```
 
-or
+or via pip:
+
 ```pip install tajima```
 
 ## Running the script
